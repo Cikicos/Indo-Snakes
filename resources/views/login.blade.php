@@ -112,10 +112,9 @@ margin-left: 4px;
 				<h3>Sign In</h3>
 				<div class="d-flex justify-content-end social_icon">
 				</div>
-			</div>
 			<div class="card-body">
 				<form action="/loginAksi" method="post">
-                 {{ csrf_field() }}
+                 @csrf
 
 					<div class="input-group form-group">
 						<div class="input-group-prepend">

@@ -241,7 +241,7 @@ button:focus {
       <div class='welcome'>Hello There!</div>
       <div class='subtitle'>We're almost done. Before using our services you need to create an account.</div>
       <form action="/register" method="post" class="form">
-        {{ @csrf_field() }}
+        @csrf
       <div class='input-fields'>
         <input type='text' name="name" placeholder='Username' class='input-line full-width'></input>
         <input type='text' name="email" placeholder='Email' class='input-line full-width'></input>
