@@ -117,7 +117,7 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="img/welang.JPG" class="img-fluid" />
+	<img src="img/welang.jpg" class="img-fluid" />
 	<h3>Welang </h3>
 	<p>Bungarus fasciatus</p>
 	</div>
@@ -137,7 +137,7 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="img/anang.JPG" class="img-fluid" />
+	<img src="img/anang.jpg" class="img-fluid" />
 	<h3>King Kobra</h3>
 	<p>Ophiophagus hannah</p>
 	</div>

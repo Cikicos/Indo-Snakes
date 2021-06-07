@@ -116,7 +116,7 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="img/tikus.JPG" class="img-fluid" />
+	<img src="img/tikus.jpg" class="img-fluid" />
 	<h3>Ular tikus </h3>
 	<p> Oreocryptophis porphyraceus laticinctus</p>
 	</div>
@@ -135,7 +135,7 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="img/loreng.JPG" class="img-fluid" />
+	<img src="img/loreng.jpg" class="img-fluid" />
 	<h3>Loreng</h3>
 	<p>Dendrelaphis striatus</p>
 	</div>

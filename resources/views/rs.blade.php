@@ -119,7 +119,7 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="img/RSTAR.JPG" class="img-fluid" />
+	<img src="img/RSTAR.jpg" class="img-fluid" />
 	<h3>RSUD Tarakan Jakarta</h3>
 	<p>Jl. Kyai Caringin No.7, RT.11/RW.4, Cideng, Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10150</p>
 	</div>
@@ -139,7 +139,7 @@
 	<div class="our-team-main">
 	
 	<div class="team-front">
-	<img src="img/MKK.JPG" class="img-fluid" />
+	<img src="img/MKK.jpg" class="img-fluid" />
 	<h3>RS Mitra Keluarga Kalideres</h3>
 	<p>Jl. Peta Selatan No.1, RT.7/RW.11, Kalideres, Kec. Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11840</p>
 	</div>
