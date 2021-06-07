@@ -17,15 +17,15 @@ Route::get('/', function () {
     return view('login');
 });
 
-Route::post('/loginAksi',[SnakeController::Class,'loginAksi']);
-Route::get('/login',[SnakeController::Class,'login']);
-Route::get('/daftar',[SnakeController::Class,'daftar']);
-Route::post('/register',[SnakeController::Class,'register']);
-Route::get('/tentang',[SnakeController::Class,'tentang']);
-Route::get('/index',[SnakeController::Class,'index']);
-Route::get('/berbisa',[SnakeController::Class,'berbisa']);
-Route::get('/biasa',[SnakeController::Class,'biasa']);
-Route::get('/rs',[SnakeController::Class,'rs']);
-Route::get('/tolong',[SnakeController::Class,'tolong']);
-Route::get('/menangkap',[SnakeController::Class,'menangkap']);
-Route::get('/master'.[SnakeController::Class,'master']);
+Route::post('/loginAksi',[SnakeController::class,'loginAksi']);
+Route::get('/login',[SnakeController::class,'login']);
+Route::get('/daftar',[SnakeController::class,'daftar']);
+Route::post('/register',[SnakeController::class,'register']);
+Route::get('/tentang',[SnakeController::class,'tentang']);
+Route::get('/index',[SnakeController::class,'index']);
+Route::get('/berbisa',[SnakeController::class,'berbisa']);
+Route::get('/biasa',[SnakeController::class,'biasa']);
+Route::get('/rs',[SnakeController::class,'rs']);
+Route::get('/tolong',[SnakeController::class,'tolong']);
+Route::get('/menangkap',[SnakeController::class,'menangkap']);
+Route::get('/master'.[SnakeController::class,'master']);
