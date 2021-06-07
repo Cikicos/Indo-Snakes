@@ -29,3 +29,5 @@ Route::get('/rs',[SnakeController::class,'rs']);
 Route::get('/tolong',[SnakeController::class,'tolong']);
 Route::get('/menangkap',[SnakeController::class,'menangkap']);
 Route::get('/master'.[SnakeController::class,'master']);
+
+?>
